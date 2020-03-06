@@ -1,8 +1,10 @@
 @app
-begin-app
+music-y43
+
+@static
 
 @http
-get  /todos
+get /todos
 post /todos
 post /todos/delete
 
